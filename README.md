@@ -15,7 +15,7 @@ User Stories:
 - [x]The #email input field should have placeholder text to let users know what the field is for
 - [x]The #email input field uses HTML5 validation to confirm that the entered text is an email address
 - [x]Within the form, there is a submit input with a corresponding id="submit"
-- [x]When you click the #submit element, the email is submitted to a static page (use this mock URL: https://www.freecodecamp.com/email-submit)
+- [x]When you click the #submit element, the email is submitted to a static page
 - [x]The navbar should always be at the top of the viewport
 - [x]Your product landing page should have at least one media query
 - [x]Your product landing page should utilize CSS flexbox at least once
