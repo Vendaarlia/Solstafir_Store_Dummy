@@ -93,6 +93,10 @@
   .btn:hover {
     background-color: #fb8500;
   }
+
+  #video {
+    height: 100vh;
+  }
   
   #albums {
     display: flex;
